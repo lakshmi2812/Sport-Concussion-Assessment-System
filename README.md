@@ -1,7 +1,7 @@
 # Sport-Concussion-Assessment-System
 --------------------------------------
 
-This app has been developed in Java using Object-Oriented Design patterns. This is a Command Line app.
+This app has been developed in Java. This is a Command Line app.
 
 The app has 2 groups of users: 1)Athletes and 2)Sport Medical Practitioners
 
